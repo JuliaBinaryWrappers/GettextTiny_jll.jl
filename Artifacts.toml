@@ -1,0 +1,144 @@
+[[GettextTiny]]
+arch = "aarch64"
+git-tree-sha1 = "a0afc22711b440792b7ec5680007f6e1de8f8d45"
+os = "macos"
+
+    [[GettextTiny.download]]
+    sha256 = "eec3b5e728b5623d6cece9e6c7b6c4e7d6a2d63664987757c39262b790b0166a"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.aarch64-apple-darwin.tar.gz"
+[[GettextTiny]]
+arch = "aarch64"
+git-tree-sha1 = "bfb8119c2c39d9fa4c7404264387696c87957cbc"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "a8ccaa094f27337e81e94acafef415f36ca9b4d848d96cbb4f076b731c011414"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.aarch64-linux-gnu.tar.gz"
+[[GettextTiny]]
+arch = "aarch64"
+git-tree-sha1 = "a96758a19d5f421abe040756fd5ecaa576201148"
+libc = "musl"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "76d5a9723cabc5f6c472e13f41e6ae3ca2155ecdf743b56f30eed829f2e834fe"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.aarch64-linux-musl.tar.gz"
+[[GettextTiny]]
+arch = "aarch64"
+git-tree-sha1 = "c5c9e1fb0a7afc775f75440ad2bd64e31bae805f"
+os = "freebsd"
+
+    [[GettextTiny.download]]
+    sha256 = "afe4d36d71bad2e8a6350eb0de39a84a23e3495dcb0983e1594fa38ddf349d0f"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.aarch64-unknown-freebsd.tar.gz"
+[[GettextTiny]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd743ecd11b2051980baafec34a2e96abad5d74f"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "4f6ced3a5a54db7945d31ec17efbce76b28f490fb2f28308c14436dc4931d410"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.armv6l-linux-gnueabihf.tar.gz"
+[[GettextTiny]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9e4969622524f8be1523e75689c14cef5fbc75da"
+libc = "musl"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "c050655249adf59019aaefc323f9d3432f0787acc56070109dc65f069befb874"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.armv6l-linux-musleabihf.tar.gz"
+[[GettextTiny]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8b4ee22c4fc2d580ee6d05c0103a6cb173df7886"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "9dd4ea00521aae7f3c39d89d23d5cb1a5bf6c2bc59e88fd5366d2c8890844cdd"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[GettextTiny]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ed54bb5e1a98fd6fb258b55b71aba5fb8ab3fb23"
+libc = "musl"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "1d5005f743a35d8be808cc32faa8733b67847998fa6029e8f6de68530e2521ff"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.armv7l-linux-musleabihf.tar.gz"
+[[GettextTiny]]
+arch = "i686"
+git-tree-sha1 = "19e9d300aac937d30238abac97aba4620fa8dc59"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "f48ce75cb562187899757aa97c78d07d3d090e74fef7fad60f3efb7938ed32e1"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.i686-linux-gnu.tar.gz"
+[[GettextTiny]]
+arch = "i686"
+git-tree-sha1 = "2d637b47b8b433af2d52b6406f48c75e8b5c66e1"
+libc = "musl"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "f7b7d796a8537907e5510ffea0c4501c2efe6b9fcb7d793cb63d3ec51571e019"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.i686-linux-musl.tar.gz"
+[[GettextTiny]]
+arch = "powerpc64le"
+git-tree-sha1 = "1fc3fce319d9e00a79af1fe39a3a39019362dcad"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "25dea33dd7cf6e88331270a23c0ab1b6a4bf09f2a08cf08ae478ab2de71f719c"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.powerpc64le-linux-gnu.tar.gz"
+[[GettextTiny]]
+arch = "riscv64"
+git-tree-sha1 = "7938da55fd05d0010d9ee269dbcd198b6c9657da"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "70eec7856c2976b4304c2fa2d9b8c4939f5a4adffc0cc243196f49bc8ab5e100"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.riscv64-linux-gnu.tar.gz"
+[[GettextTiny]]
+arch = "x86_64"
+git-tree-sha1 = "3c904871dd70f6c7cff529cb44deef33dfbe9651"
+os = "macos"
+
+    [[GettextTiny.download]]
+    sha256 = "79d4e2103aae87b87c6f7365496f33bc8c92bf5540683358a5be9179f46e168c"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.x86_64-apple-darwin.tar.gz"
+[[GettextTiny]]
+arch = "x86_64"
+git-tree-sha1 = "7c96f628fcfaad24b26483618fc2ede9f07ef302"
+libc = "glibc"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "356d0a0998016e37d6923f1803b4886aa519cffeee3146ef1992e37ecfc759a8"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.x86_64-linux-gnu.tar.gz"
+[[GettextTiny]]
+arch = "x86_64"
+git-tree-sha1 = "55e534fdbc4d2b0d489de1f5258ad03987af7baa"
+libc = "musl"
+os = "linux"
+
+    [[GettextTiny.download]]
+    sha256 = "f7e4e4650783496f6ceb8b9bc60edd5d1ca275397bff2a911a5c66e093419380"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.x86_64-linux-musl.tar.gz"
+[[GettextTiny]]
+arch = "x86_64"
+git-tree-sha1 = "20b2bfd4718871a607b1800e03535b243b440a64"
+os = "freebsd"
+
+    [[GettextTiny.download]]
+    sha256 = "8c4e612e2631569648b399aa04103e90a039184718fd4d9c81cf23f3982cbf8c"
+    url = "https://github.com/JuliaBinaryWrappers/GettextTiny_jll.jl/releases/download/GettextTiny-v0.3.2+0/GettextTiny.v0.3.2.x86_64-unknown-freebsd.tar.gz"
